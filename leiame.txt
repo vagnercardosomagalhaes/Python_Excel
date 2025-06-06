@@ -1,0 +1,7 @@
+Curso da UDEMY - Automatizar planilhas com Python
+
+Este arquivo faz parte do curso de automação de planilhas utilizando Python.
+
+Aqui você encontrará exemplos, dicas e códigos para manipular planilhas Excel com Python.
+
+Bons estudos!
